@@ -1,2 +1,0 @@
-# doublestar
-Say, Hi
